@@ -16,3 +16,16 @@
     color: #212529 !important;
     border-color: #FFF !important;
   }
+  #btn-modal {
+    color: black !important;
+    background: none !important;
+    border-color: black !important;
+    border: 3px solid #FFF;
+    border-radius: 52px;
+    padding: 1% 2%;
+  }
+  #btn-modal:hover {
+    background: #FFF !important;
+    color: #3b32ff !important;
+    border-color: #3b32ff !important;
+  }
